@@ -1,0 +1,90 @@
+.container{
+    margin-top: 30px;
+    margin-left: 550px;
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 450px;
+    border: 1px solid ; 
+}
+.container1{
+    margin-top: 30px;
+    margin-left: 550px;
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 550px;
+    border: 1px solid ; 
+}
+h1{
+    text-align: center;
+    font-style: italic;
+} 
+input{
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 310px;
+    height: 30px;
+}
+button{
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 310px;
+    height: 30px;
+    background-color: rgb(140, 224, 250);
+}
+hr{
+    margin-top: 20px;
+}
+span{
+    display: block;
+    text-align: center;
+}
+.a_image{
+    margin-left: 120px;
+    margin-top: 30px;
+}
+a{
+    text-decoration: none;
+}
+.forget{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.Sign_in{
+    margin-top: 30px;
+    border: 1px solid;
+    width: 400px;
+    height: 50px;
+    margin-left: 550px;
+}
+.account{
+    margin-top: 15px;
+    margin-left: 100px;
+}
+.Sign_in1{
+    margin-top: 30px;
+    width: 400px;
+    height: 50px;
+    margin-left: 550px;
+    float:left;
+}
+.Sign_in2{
+    float:right;
+}    
+.imagefb{
+    position: absolute;
+}
+.imgfb{
+    float: left;
+    margin-left: 70px;
+}
+.logbook{
+    float:right;
+    margin-right: 50px;
+    margin-top: 5px;
+    font-size: 14px;
+    color: white;
+}
+.signup{
+    color: white;
+    font-size: 17px;
+}
